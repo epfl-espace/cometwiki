@@ -2,16 +2,16 @@
 title: Home
 description: Welcome to eSpace Concurrent Engineering wiki!
 published: true
-date: 2022-07-28T08:57:16.087Z
+date: 2022-09-05T14:12:28.407Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T10:06:02.838Z
 ---
 
-# eSpace Concurrent Engineering 
+# eSpace Concurrent Engineering ![cdf_logo.png](/cdf_logo.png =180x){.align-right}
 Welcome to the the Concurrent Engineering wiki created and maintained by the **[EPFL Space Center (eSpace)](https://espace.epfl.ch/)**.
 
-![espace-logo-arial-black.png](/espace-logo-arial-black.png =400x){.align-center}
+![espace-logo-arial-black.png](/espace-logo-arial-black.png =200x){.align-center}
 
 For any issues or questions about this wiki, contact David Rodríguez at [david.rodriguez@epfl.ch](mailto:david.rodriguez@epfl.ch). 
 
