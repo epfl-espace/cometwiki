@@ -2,7 +2,7 @@
 title: eSpace CDF
 description: Setup of eSpace CDF
 published: true
-date: 2022-09-05T15:15:10.414Z
+date: 2022-09-05T15:17:04.117Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T13:56:06.217Z
@@ -14,10 +14,11 @@ This page contains a description of our [CDF](/glossary#c) and how to set it up 
 
 ### Our logo
 The current logo for our [CDF](/glossary#c) was designed by [Thomas Delacretaz](http://thomasdelacretaz.ch/).
-
-<video width="650" controls>
- <source src="/logo_cdf_4mb.mp4" type="video/mp4">
-</video>
+<center>
+  <video width="650" controls>
+   <source src="/logo_cdf_4mb.mp4" type="video/mp4">
+  </video>
+</center>
 
 ## eSpace CDF description
 
