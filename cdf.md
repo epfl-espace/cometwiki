@@ -2,14 +2,15 @@
 title: eSpace CDF
 description: Setup of eSpace CDF
 published: true
-date: 2022-08-18T08:35:08.834Z
+date: 2022-09-05T14:36:27.850Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T13:56:06.217Z
 ---
 
 # Our Concurrent Design Facility
-This page contains a description of our [CDF](/glossary#c) and how to set it up when new sessions are planned. Since the infrastructure is not currently permanent, make sure to follow and complete the checklists for material and equipment provided at the end of this page.
+![cdf_logo.png](/cdf_logo.png =250x){.align-right}
+This page contains a description of our [CDF](/glossary#c) and how to set it up when new sessions are planned. Since the infrastructure is not currently permanent, make sure to follow and complete the checklists for material and equipment provided at the end of this page. 
 
 ## eSpace CDF description
 
