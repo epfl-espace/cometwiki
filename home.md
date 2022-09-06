@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to eSpace Concurrent Engineering wiki!
 published: true
-date: 2022-09-05T14:12:28.407Z
+date: 2022-09-06T07:23:33.503Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T10:06:02.838Z
@@ -13,7 +13,7 @@ Welcome to the the Concurrent Engineering wiki created and maintained by the **[
 
 ![espace-logo-arial-black.png](/espace-logo-arial-black.png =200x){.align-center}
 
-For any issues or questions about this wiki, contact David Rodríguez at [david.rodriguez@epfl.ch](mailto:david.rodriguez@epfl.ch). 
+For any issues or questions about this wiki: [contact@spacecdf.ch](mailto:contact@spacecdf.ch). 
 
 ## What is it?
 This wiki was built to gather all relevant information about our concurrent engineering activities. 
@@ -26,7 +26,7 @@ For those already familiar with concurrent engineering, this wiki contains infor
 
 Be aware that some parts of the wiki might be restricted and only accessible by eSpace members.
 
-> **If you are part of the eSpace team** and new to this wiki, you need an account to log in and have full access to content of the wiki. Contact [David](mailto:david.rodriguez@epfl.ch) and your account will be set up right away. 
+> **If you are part of the eSpace team** and new to this wiki, you need an account to log in and have full access to content of the wiki. Contact [David](mailto:contact@spacecdf.ch) and your account will be set up right away. 
 {.is-info}
 
 > **If you are not part of the eSpace team** and you are interested in conducting a concurrent design session with us, feel free to explore the wiki and reach out to us via the **[Work With Us](/work_with_us)** section. 
