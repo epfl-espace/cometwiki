@@ -2,7 +2,7 @@
 title: Start here
 description: Learn everything related to concurrent engineering, its method, facility, procedure, workflow, etc.
 published: true
-date: 2022-09-08T08:42:08.997Z
+date: 2022-09-08T08:44:17.739Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T10:10:11.211Z
@@ -64,7 +64,7 @@ The very first thing to do in preparation for an upcoming concurrent design stud
 
 At times, multiple roles will be given to the same person. For example, session facilitators may act as systems engineers if their expertise lie within the scope of the mission or system to be designed. The list below defines the main responsibilities for each of these roles. Other roles beyond the ones listed can be defined based on the specific needs of the study. 
 
-- **Study coordinators**: top-level managers or initiators of a concurrent design study; in charge of identifying the need for a study, organizing it, assigning roles, and defining expected outcomes and constraints. 
+- **Study coordinators**: top-level managers or initiators of a concurrent design study; in charge of identifying the need for a study, assigning roles, and defining expected outcomes and constraints. 
 - **Session facilitators**: in charge of overseeing the development of each session with the objective of maintaining an effective and efficient flow of information between subsystems. 
 - **System engineers**: in charge of the technical coordination of a study.
 - **Technical support**: in charge of providing specific *ad hoc* expertise  based on the needs and requirements of the mission or system to be designed.
