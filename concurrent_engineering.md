@@ -2,7 +2,7 @@
 title: Start here
 description: Learn everything related to concurrent engineering, its method, facility, procedure, workflow, etc.
 published: true
-date: 2022-08-25T13:20:49.037Z
+date: 2022-09-08T08:42:08.997Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T10:10:11.211Z
@@ -58,13 +58,28 @@ Below you will find details as to what to do [before](#before), [during](#during
 
 ### Before {#before}
 
+### Step 0: Roles {#roles}
+
+The very first thing to do in preparation for an upcoming concurrent design study is to clarify the **roles** of the staff members overseeing it. These roles tend to include: study coordinators, session facilitators, system engineers, and technical or logistical support.   
+
+At times, multiple roles will be given to the same person. For example, session facilitators may act as systems engineers if their expertise lie within the scope of the mission or system to be designed. The list below defines the main responsibilities for each of these roles. Other roles beyond the ones listed can be defined based on the specific needs of the study. 
+
+- **Study coordinators**: top-level managers or initiators of a concurrent design study; in charge of identifying the need for a study, organizing it, assigning roles, and defining expected outcomes and constraints. 
+- **Session facilitators**: in charge of overseeing the development of each session with the objective of maintaining an effective and efficient flow of information between subsystems. 
+- **System engineers**: in charge of the technical coordination of a study.
+- **Technical support**: in charge of providing specific *ad hoc* expertise  based on the needs and requirements of the mission or system to be designed.
+- **Logistical support**: in charge of assisting with the logistics of a study (booking of rooms, external communications, infrastructure, etc.) 
+
+
 #### Step 1: Preparation {#prep}
 
-Before starting the design cycle, system engineers (SEs) and session facilitators (SFs) shall prepare and perform a preliminary analysis on their own. This analysis includes determining the main **top-level requirements and constraints** for the mission and/or system to be designed. It is also necessary to define a **starting point**, a set of **assumptions** that will be provided to the team and that will act as a baseline for the design (e.g., some subsystems or mission components may be considered out of scope and therefore treated as black boxes or dummy objects). 
+Before starting the design cycle, system engineers (SEs) and session facilitators (SFs) shall prepare and perform a preliminary analysis on their own based on a request by a study coordinator (SC). The goal of this step is to define a **starting point** or a baseline for the study.  
 
-In essence, the a good starting point should define the **mission or system architecture**.
+This analysis includes defining the main **top-level requirements and constraints** for the mission and/or system to be designed. It is also necessary as part of defining a starting point to declare a set of **assumptions** that will be provided to the team and that will act as a baseline for the design (e.g., some subsystems or mission components may be considered out of scope and therefore treated as black boxes or dummy objects). 
 
-> Architecture drivers (often): trajectory and propulsion. But also the main goals of the mission (scientific, commercial, others).
+In essence, a good starting point should define the **mission or system architecture**.
+
+> Architecture drivers (often): trajectory and propulsion. But can also be the main goals of the mission (scientific, commercial, others).
 {.is-info}
 
 > Whenever possible it is good practice to refer to previous missions with similar characteristics or initial requirements! Check the list of [previous CE studies](/ce_studies).
@@ -73,24 +88,26 @@ In essence, the a good starting point should define the **mission or system arch
 > Also, before the session starts, you need to create a mission/system model in the Concurrent Design Tool.
 {.is-warning}
 
-The SEs/SFs must make sure that the relevant **experts** and **subsystem specialists** will attend the concurrent engineering sessions.
+The SC must make sure that the relevant **experts** and **subsystem specialists** will attend the concurrent engineering sessions. The list of relevant experts/specialist is defined with input from the SFs/SEs of which roles are required.
 
-In addition, SEs/SFs should define a timeframe for the study: when it will take place and how many session the study requires. 
+In addition, SEs/SFs should define a timeframe for the study: when it will take place and how many session they deem the study requires. 
 
-> Providing a **timeframe** for the study is critical. How long a study should be is always a bit random. At ESA, concurrent design studies often end after 8 sessions (each session is 4-h long). Avoid falling into the trap of the never-ending refinement cycle by defining a hard end-date for your study. 
+> Providing a **timeframe** for the study is critical. How long a study should be is always a bit random. At ESA, concurrent design studies often end after 8 sessions (each session being 4 hours long). Avoid falling into the trap of the never-ending refinement cycle by defining a hard end-date for your study. 
 {.is-warning}
+
+All the information gathered and details defined as part of this step shall be put together in a slide deck to be used during the [kick-off](#kickoff) of the study. 
 
 #### Step 2: Setup
 
-To set up the infrastructure for the CE sessions, organizers shall follow the [preparation checklist](/cdf#preparation_checklist) for how to setup the CDF. Beware that some actions are required several days/weeks prior to the start of the study.
+To set up the infrastructure for the CE sessions, SF/SEs, together with logistical support if needed, shall follow the [preparation checklist](/cdf#preparation_checklist) for how to setup the CDF. Beware that some actions are required several days/weeks prior to the start of the study.
 
 The previous checklist includes material and equipment, as well as additional furniture (table, etc.), software installation, and logistics recommendations.
 
 ### During {#during}
 
-#### Step 3: Kick-off
+#### Step 3: Kick-off {#kickoff}
 
-A kick-off meeting is held in which SEs/SFs and often the customer presents to the rest of the team the why behind the study; i.e., they describe why the mission/system is relevant, provide context and scope about mission goals, requirements and constraints, and introduce the results of a potential first system analysis conducted during [peparation](#prep).
+A kick-off meeting is held in which SEs/SFs and often the customer presents to the rest of the team the rationale for the study; i.e., they describe why the mission/system is relevant, provide context and scope about mission goals, requirements and constraints, and introduce the results of a potential first system analysis conducted during [peparation](#prep).
 
 #### Step 4: Start the design
 
