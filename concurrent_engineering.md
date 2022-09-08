@@ -2,7 +2,7 @@
 title: Start here
 description: Learn everything related to concurrent engineering, its method, facility, procedure, workflow, etc.
 published: true
-date: 2022-09-08T08:44:17.739Z
+date: 2022-09-08T09:27:55.484Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T10:10:11.211Z
@@ -95,7 +95,13 @@ In addition, SEs/SFs should define a timeframe for the study: when it will take 
 > Providing a **timeframe** for the study is critical. How long a study should be is always a bit random. At ESA, concurrent design studies often end after 8 sessions (each session being 4 hours long). Avoid falling into the trap of the never-ending refinement cycle by defining a hard end-date for your study. 
 {.is-warning}
 
-All the information gathered and details defined as part of this step shall be put together in a slide deck to be used during the [kick-off](#kickoff) of the study. 
+All the information gathered and details defined as part of this step shall be put together in a slide deck to be used during the [kick-off](#kickoff) of the study. A proposition for the content of the slides is given below:
+- Mission overview
+- ConOps (high level), to be refined during study
+- Mission objectives
+- Requirements (at system and subsystems’ levels)
+- Scope for the study
+- Design elements
 
 #### Step 2: Setup
 
