@@ -2,7 +2,7 @@
 title: To-Do List
 description: Track wiki progress here
 published: true
-date: 2022-08-25T13:25:23.512Z
+date: 2022-10-03T16:02:44.147Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T15:20:06.363Z
@@ -10,7 +10,11 @@ dateCreated: 2022-07-27T15:20:06.363Z
 
 ## In-progress
 - [ ] Prep "Test our wiki": CE study drill by 15-September-2022 <span style="background:#669cf2; color:white; font-size:small;font-weight:bold">DRZ</span> <span style="background:#edab72; color:white; font-size:small;font-weight:bold">MUT</span>
-- [ ] Think about a potential mission concept to be design during the "test our wiki" drill by 15-September-2022 <span style="background:#edab72; color:white; font-size:small;font-weight:bold">MUT</span>
+	- Questionnaire ?
+  - Drill "log book" ?
+  - Context / Intro document ?
+ 
+ ✅ Think about a potential mission concept to be design during the "test our wiki" drill by 15-September-2022 <span style="background:#edab72; color:white; font-size:small;font-weight:bold">MUT</span>
 
 
 ## To-do
