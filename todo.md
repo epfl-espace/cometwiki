@@ -2,15 +2,19 @@
 title: To-Do List
 description: Track wiki progress here
 published: true
-date: 2022-10-25T07:27:24.410Z
+date: 2022-10-25T07:49:38.687Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T15:20:06.363Z
 ---
 
 ## In-progress
+
+- [ ] Wiki test with Adrien and Simon
+
+## To-do
+
 - [ ] Store COMET user manual somewhere accessible (is the drive enough ? Link on the wiki ?)
-- [ ] Change COMET server (with John) because of response time (now it's escgesrv5)
 - [ ] Discuss CDF ideas and lessons learnt taken from ESTEC: <span style="background:#669cf2; color:white; font-size:small;font-weight:bold">DRZ</span> <span style="background:#edab72; color:white; font-size:small;font-weight:bold">MUT</span>
 	- Hard to find experts (it's time consuming for them) and the directorate are hesitant to commit a lot of manpower to a CE study, not many experts trained to use the CDF because it's always the same people participating for the same subsystem
 	- The usually conduct 8 sessions of 1/2 day over 1.5 month (~2 sessions per week)
@@ -18,13 +22,9 @@ dateCreated: 2022-07-27T15:20:06.363Z
   - ESTEC CDF has "splitting rooms" if a subset of subsystems have to be isolated to discuss a more detailed matter / topic / trade-off (could be PPH 335)
   - **Ideation** support: it was identified that a pain point is sharing the same vision, sharing your ideas, so they use LEGOs, 3D printers and soon mixed augmented reality (!) to help this process
   - also painpoint : lack of _interactions_: they consider banning powerpoint presentations, encourage use of whiteboard and push for more discussions
-
-
-## To-do
-
 - [ ] Check with SIU about demand for CDF in industry by 06-May-2022 <span style="background:#669cf2; color:white; font-size:small;font-weight:bold">DRZ</span> <span style="color:red; font-weight:bold;">[DELAYED]</span>
 - [ ] Contact MAKE teams about CDF access by 15-September-2022 <span style="background:#669cf2; color:white; font-size:small;font-weight:bold">DRZ</span>
-- [ ] Make up our own tradition/supersition by 30-September-2022 <span style="background:#6c6c6c; color:white; font-size:small;font-weight:bold">ALL</span>
+
 - [ ] Officially launch the wiki (link in main site ->Candice) by 30-September-2022 <span style="background:#669cf2; color:white; font-size:small;font-weight:bold">DRZ</span>
 - [ ] Contact profs (Nicollier/SMD&O, Charbon/PD&SE, deWeck) for usage of CDF as part of couse curricula by 30-September-2022 <span style="background:#669cf2; color:white; font-size:small;font-weight:bold">DRZ</span>
 - [ ] Refine and edit the "CE Workflow" section based on drill feedback by 15-October-2022 <span style="background:#669cf2; color:white; font-size:small;font-weight:bold">DRZ</span> <span style="background:#edab72; color:white; font-size:small;font-weight:bold">MUT</span>
