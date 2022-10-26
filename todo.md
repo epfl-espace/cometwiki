@@ -2,7 +2,7 @@
 title: To-Do List
 description: Track wiki progress here
 published: true
-date: 2022-10-26T08:16:00.012Z
+date: 2022-10-26T08:18:44.726Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T15:20:06.363Z
@@ -14,6 +14,7 @@ dateCreated: 2022-07-27T15:20:06.363Z
 
 ## To-do
 - [ ] Investigate other CE softwares ? (IDM-CMC (CNES), Valispace, ...)
+- [ ] Look / create tutorial for setting up and using COMET (search on YouTube, ask ESA ?)
 - [ ] Store COMET user manual somewhere accessible (is the drive enough ? Link on the wiki ?)
 - [ ] Discuss CDF ideas and lessons learnt taken from ESTEC: <span style="background:#669cf2; color:white; font-size:small;font-weight:bold">DRZ</span> <span style="background:#edab72; color:white; font-size:small;font-weight:bold">MUT</span>
 	- Hard to find experts (it's time consuming for them) and the directorate are hesitant to commit a lot of manpower to a CE study, not many experts trained to use the CDF because it's always the same people participating for the same subsystem
