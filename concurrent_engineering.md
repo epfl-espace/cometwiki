@@ -2,7 +2,7 @@
 title: Start here
 description: Learn everything related to concurrent engineering, its method, facility, procedure, workflow, etc.
 published: true
-date: 2022-09-08T09:27:55.484Z
+date: 2022-10-27T08:19:32.664Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T10:10:11.211Z
@@ -171,6 +171,7 @@ At the end of the study, once the end-date for the study is reached, asking ever
 The final check shall include a screening of the [requirements](#before) to verify that the designed mission fulfills them. The customer(s), having commissioned the study, shall then validate that the design indeed answer their needs.
 
 ### After {#after}
+
 #### Step 8: Post-study activities
 
 The last step of a study is the report writing. A [report template](/study_report_template) is available to eSpace staff to create a new page on the wiki. The report helps structure the outcomes of the study, provides lessons learned, assumptions, and data for future studies, and might be a required deliverable under a project contract.
