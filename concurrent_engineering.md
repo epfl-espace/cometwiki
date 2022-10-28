@@ -2,7 +2,7 @@
 title: Start here
 description: Learn everything related to concurrent engineering, its method, facility, procedure, workflow, etc.
 published: true
-date: 2022-10-27T08:19:32.664Z
+date: 2022-10-28T13:45:33.685Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T10:10:11.211Z
@@ -92,7 +92,7 @@ The SC must make sure that the relevant **experts** and **subsystem specialists*
 
 In addition, SEs/SFs should define a timeframe for the study: when it will take place and how many session they deem the study requires. 
 
-> Providing a **timeframe** for the study is critical. How long a study should be is always a bit random. At ESA, concurrent design studies often end after 8 sessions (each session being 4 hours long). Avoid falling into the trap of the never-ending refinement cycle by defining a hard end-date for your study. 
+> Providing a **timeframe** for the study is critical. Defining how long a study should be is always a bit random. At ESA, concurrent design studies often end after 8 sessions (each session being 4 hours long). You can avoid falling into the trap of the never-ending refinement cycle by always defining a hard end-date for your study. 
 {.is-warning}
 
 All the information gathered and details defined as part of this step shall be put together in a slide deck to be used during the [kick-off](#kickoff) of the study. A proposition for the content of the slides is given below:
